@@ -3,7 +3,7 @@
        ┠━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┨
        ┃           自述文档          ┃
        ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-             ZJULibTem for Word v2.5
+             ZJU Lab Template for Word v2.5
                    Jingshan Du
               dujingshan@zju.edu.cn
 This document is encoded by UTF-8. If you are experiencing any difficulty reading this document, please try changing the encoding or contact the author.
